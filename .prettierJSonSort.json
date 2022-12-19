@@ -1,0 +1,5 @@
+{
+  "placeThisFirst": null,
+  "/ˆ[ˆ\\d+]/": "caseInsensitiveLexical",
+  "/ˆ\\d+/": "caseInsensitiveNumeric"
+}
