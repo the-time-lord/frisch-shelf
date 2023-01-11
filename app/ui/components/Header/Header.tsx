@@ -3,6 +3,7 @@ import { View, StyleSheet } from 'react-native';
 import SearchBar from '../SearchBar/SearchBar';
 import COLORS from '@ui/theme/color';
 import HeaderButtons from './components/HeaderButtons';
+
 const Header = () => {
   return (
     <View style={styles.container}>

@@ -44,12 +44,17 @@ const Footer = () => {
 
 const styles = StyleSheet.create({
   container: {
+    flex: 1,
     flexDirection: 'row',
     justifyContent: 'space-evenly',
-    paddingTop: 12,
+    paddingTop: 16,
     maxHeight: 90,
     height: '100%',
     backgroundColor: COLORS.GRAY_500,
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    bottom: 0,
   },
 });
 
